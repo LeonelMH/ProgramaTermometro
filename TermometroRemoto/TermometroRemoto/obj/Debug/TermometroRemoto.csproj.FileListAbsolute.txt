@@ -1,0 +1,10 @@
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\bin\Debug\TermometroRemoto.exe.config
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\bin\Debug\TermometroRemoto.exe
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\bin\Debug\TermometroRemoto.pdb
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\obj\Debug\TermometroRemoto.csproj.AssemblyReference.cache
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\obj\Debug\TermometroRemoto.Form1.resources
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\obj\Debug\TermometroRemoto.Properties.Resources.resources
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\obj\Debug\TermometroRemoto.csproj.GenerateResource.cache
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\obj\Debug\TermometroRemoto.csproj.CoreCompileInputs.cache
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\obj\Debug\TermometroRemoto.exe
+C:\Users\LAB-DSC-ITT\source\repos\TermometroRemoto\TermometroRemoto\obj\Debug\TermometroRemoto.pdb
